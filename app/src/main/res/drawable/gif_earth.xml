@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/gif_earth_0"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_2"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_3"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/gif_earth_4"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_5"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_6"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_7"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_8"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_9"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_10"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_11"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_12"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_13"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_14"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_15"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_16"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_17"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_18"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_19"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_20"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_21"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_22"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_23"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_24"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_25"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_26"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_27"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_28"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_29"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_30"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_31"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_32"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_33"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_34"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_35"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_36"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_37"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_38"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_39"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_40"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_41"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_42"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_43"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_44"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_45"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_46"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_47"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_48"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/gif_earth_49"
+        android:duration="100" />
+</animation-list>
